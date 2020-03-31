@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Naive Bayes Classification"
-date:       2020-03-31 00:04:06 +0000
+date:       2020-03-30 20:04:07 -0400
 permalink:  naive_bayes_classification
 ---
 
